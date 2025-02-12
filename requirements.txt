@@ -1,0 +1,8 @@
+langchain
+langchain-ollama
+ollama
+langchain-community
+langchain-neo4j
+langchainhub
+neo4j
+youtube-search
